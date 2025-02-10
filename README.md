@@ -4,6 +4,9 @@ WAZE PROJECT
 
 **Prepared for:** Waze Leadership Team  
 
+![image](https://github.com/user-attachments/assets/b3bafd1e-ecba-4713-aa71-a89c69200892)
+
+
 ### **Project Overview**
 The Waze data team is conducting an analysis to prevent monthly user churn by identifying behavioral patterns associated with app uninstallation or inactivity. The dataset includes information on user engagement, driving behaviors, and device types, allowing us to compare churned versus retained users and develop strategies to enhance retention.
 
