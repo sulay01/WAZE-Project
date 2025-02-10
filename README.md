@@ -6,39 +6,58 @@ WAZE PROJECT
 
 ![image](https://github.com/user-attachments/assets/b3bafd1e-ecba-4713-aa71-a89c69200892)
 
+# 🚗 Waze User Churn Analysis
 
-### **Project Overview**
-The Waze data team is conducting an analysis to prevent monthly user churn by identifying behavioral patterns associated with app uninstallation or inactivity. The dataset includes information on user engagement, driving behaviors, and device types, allowing us to compare churned versus retained users and develop strategies to enhance retention.
+## 📌 Overview
+The Waze data team is analyzing **user churn behavior** to understand why some users **stop using the app**. The goal is to identify **key engagement patterns, driving behaviors, and app usage trends** to improve **retention** and develop **targeted solutions** for at-risk users.
 
-### **Key Findings**
-- **User Churn Distribution:** The dataset contains **82% retained users** and **18% churned users**.
-- **Missing Data:** The `label` column contains **700 missing values**, but the missing data appears to be random.
-- **Driving Patterns:**
-  - Churned users averaged **~3 more drives per month** than retained users.
-  - Retained users used the app on **twice as many days** as churned users.
-  - The median churned user drove **~200 km more per month** and spent **2.5 more hours** on the road compared to retained users.
-  - Churned users took **fewer but longer** trips, averaging **698 km per driving day**, which is **240% more distance per day than retained users**.
-- **Device Analysis:**
-  - No significant difference in churn rates between **iPhone and Android users**.
-  - Both device types showed similar retention trends, suggesting that device experience is not a primary driver of churn.
-- **New Feature Engineering:**
-  - **km_per_drive**: Distance driven per trip.
-  - **km_per_driving_day**: Distance driven per active day.
-  - **drives_per_driving_day**: Number of trips taken per active day.
+## 📊 Project Status
+- ✅ **Data analysis completed**, revealing behavioral differences between churned and retained users.
+- 🔎 **Identified high-usage drivers** as a unique group requiring further investigation.
+- 📈 **Insights suggest potential improvements** in Waze features to better serve long-distance drivers.
+- 🚀 **Next phase**: Implementing strategies to enhance user retention.
 
-### **Recommendations & Next Steps**
-1. **Target High-Usage Drivers:**
-   - Churned users tend to take **longer and more frequent trips in a shorter time frame**.
-   - Further investigate whether high-usage drivers face app usability issues.
-2. **Enhanced Personalization:**
-   - Implement user-specific engagement strategies, such as custom notifications or in-app incentives.
-3. **Gather Additional Data on Super-Drivers:**
-   - These users may have **unique needs** (e.g., truck drivers, couriers). Waze could introduce **tailored features** to enhance their experience.
-4. **Develop Predictive Model for Churn Risk:**
-   - Use machine learning to classify at-risk users and deploy retention strategies before they churn.
-5. **Data Visualization & Further EDA:**
-   - Conduct **in-depth exploratory data analysis (EDA)** and develop data visualizations to illustrate key insights.
+## 🔍 Key Insights
+1️⃣ **High-usage drivers require further investigation** – These users drive **significantly more** than others but are more likely to churn. Their behavior suggests **unique navigation needs**.  
+2️⃣ **Retained users engage more consistently over time** – They use Waze **regularly**, spread across more days, indicating strong long-term app value.  
+3️⃣ **Long-distance drivers may need specialized app features** – Their churn suggests Waze may **lack key functionalities** for extended trips, such as **fuel tracking, rest stops, and advanced trip planning**.  
 
-### **Conclusion**
-The analysis suggests that churned users drive more frequently but use the app on fewer days. Waze can leverage this insight to **enhance retention efforts through targeted engagement and feature improvements**. The next phase involves developing a **predictive churn model** and conducting deeper EDA to refine our understanding of churn behaviors.
+## 🎯 Objective
+- **Understand churn patterns** by analyzing user behavior and engagement metrics.  
+- **Identify key factors influencing churn** among long-distance and high-usage drivers.  
+- **Develop strategies** to enhance user retention and engagement.  
+- **Recommend app improvements** to cater to different driver segments.  
 
+## 📊 Results
+- 📌 Churned users **drive 240% more km/day** than retained users, suggesting **they have different usage needs**.  
+- 📌 Retained users **show consistent engagement**, using Waze across more days per month.  
+- 📌 High-mileage drivers **churn at a higher rate**, indicating that **Waze may lack critical features** for long-distance travel.  
+- 📌 No significant difference in churn rate between **Android and iPhone users**.  
+- 📌 **Personalized engagement & feature improvements** could help **reduce churn & enhance retention**.  
+
+## 🚀 Next Steps
+✔ **Develop new app features** tailored for long-distance drivers (fuel tracking, rest stop planning, route optimization).  
+✔ **Implement AI-driven churn prediction** to identify users at risk of leaving and offer personalized retention strategies.  
+✔ **Enhance engagement tactics**, such as **gamification, push notifications, and loyalty rewards** to improve app stickiness.  
+✔ **Conduct targeted user surveys** to gather insights on **specific pain points** of long-distance and high-usage drivers.  
+✔ **Monitor competitors’ strategies** to ensure Waze remains a **leading choice for navigation & trip planning**.  
+
+## 📌 Conclusion
+The **Waze User Churn Analysis** provided valuable insights into the **driving behaviors and engagement patterns** that influence user retention. The study revealed that **high-mileage drivers churn at a higher rate**, indicating **potential feature gaps** that need to be addressed. **Retained users engage more consistently over time**, suggesting that **effective retention strategies** can be implemented to prolong app usage.
+
+To mitigate churn and improve user satisfaction, Waze should focus on **personalized engagement strategies, AI-driven churn prediction, and enhanced app features for long-distance drivers**. By addressing these key areas, Waze can **increase user retention, strengthen engagement, and remain a top navigation choice for all driver segments**.
+
+### 📂 **Repository Contents**
+- 📁 **Data/** – Raw and processed datasets used for analysis.
+- 📁 **Notebooks/** – Jupyter notebooks containing data exploration, cleaning, and modeling.
+- 📁 **Visualizations/** – Charts, graphs, and reports summarizing key insights.
+- 📜 **README.md** – Overview of the project, key insights, and next steps.
+
+---
+
+## 📬 Contact
+**Author:** Sulay Cay  
+**Date:** 10-Feb-2025
+
+**LinkedIn:** [linkedin.com/in/sulay-cay-0589513a](https://www.linkedin.com/in/sulay-cay-0589513a)  
+**GitHub:** [github.com/sulay01](https://github.com/sulay01)  
