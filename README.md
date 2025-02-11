@@ -92,4 +92,6 @@ ___
 **GitHub:** [github.com/sulay01](https://github.com/sulay01)  
 
 Data is fictinional and only done as a demonstration for solely for this project for Google.
+
+
 RESOURCES: GOOGLE DATA ADVANCED ANALYTICS 
