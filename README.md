@@ -35,6 +35,17 @@ The Waze data team is analyzing **user churn behavior** to understand why some u
 - 📌 No significant difference in churn rate between **Android and iPhone users**.  
 - 📌 **Personalized engagement & feature improvements** could help **reduce churn & enhance retention**.  
 
+![image](https://github.com/user-attachments/assets/0502db5c-29be-4b0d-b7e8-5ccf6e80dc34)
+
+
+
+
+
+
+
+
+
+
 ## 🚀 Next Steps
 ✔ **Develop new app features** tailored for long-distance drivers (fuel tracking, rest stop planning, route optimization).  
 ✔ **Implement AI-driven churn prediction** to identify users at risk of leaving and offer personalized retention strategies.  
@@ -45,6 +56,7 @@ The Waze data team is analyzing **user churn behavior** to understand why some u
 ## Additional Executive Summary:
 
 ![image](https://github.com/user-attachments/assets/d7a8f2e1-9a7a-4462-b204-5ce9bbe27fdb)
+
 
 
 ## 📌 Conclusion
