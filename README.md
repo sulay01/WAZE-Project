@@ -39,6 +39,7 @@ The Waze data team is analyzing **user churn behavior** to understand why some u
 
 
 
+![image](https://github.com/user-attachments/assets/95bb5c30-dc59-49e4-a1b6-c6005886c5d3)
 
 
 
