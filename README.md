@@ -35,6 +35,8 @@ The Waze data team is analyzing **user churn behavior** to understand why some u
 - 📌 No significant difference in churn rate between **Android and iPhone users**.  
 - 📌 **Personalized engagement & feature improvements** could help **reduce churn & enhance retention**.  
 
+## Visualizations WAZE DATASET POWER BI:
+
 ![image](https://github.com/user-attachments/assets/0502db5c-29be-4b0d-b7e8-5ccf6e80dc34)
 
 
@@ -42,7 +44,7 @@ The Waze data team is analyzing **user churn behavior** to understand why some u
 ![image](https://github.com/user-attachments/assets/95bb5c30-dc59-49e4-a1b6-c6005886c5d3)
 
 
-
+![image](https://github.com/user-attachments/assets/22204cb1-f1fa-4a65-af5c-b5fdb55d06f2)
 
 
 
