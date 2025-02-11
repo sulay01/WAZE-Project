@@ -60,6 +60,9 @@ The Waze data team is analyzing **user churn behavior** to understand why some u
 
 ![image](https://github.com/user-attachments/assets/d7a8f2e1-9a7a-4462-b204-5ce9bbe27fdb)
 
+## WAZE PROJECT JUPYTER NOTEBOOK:
+
+[WAZE_PROJECT_JPYNB](https://github.com/sulay01/WAZE-Project/blob/main/Exemplar_Course%202%20Waze%20project%20lab.ipynb)
 
 
 ## 📌 Conclusion
