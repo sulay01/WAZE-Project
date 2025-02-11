@@ -47,6 +47,11 @@ The **Waze User Churn Analysis** provided valuable insights into the **driving b
 
 To mitigate churn and improve user satisfaction, Waze should focus on **personalized engagement strategies, AI-driven churn prediction, and enhanced app features for long-distance drivers**. By addressing these key areas, Waze can **increase user retention, strengthen engagement, and remain a top navigation choice for all driver segments**.
 
+___
+## Additional Executive Summary:
+[WAZE_Executive_Summaries](https://github.com/sulay01/WAZE/blob/main/WAZE_%20Executive%20summaries_.pdf)
+
+
 ### 📂 **Repository Contents**
 - 📁 **Data/** – Raw and processed datasets used for analysis.
 - 📁 **Notebooks/** – Jupyter notebooks containing data exploration, cleaning, and modeling.
