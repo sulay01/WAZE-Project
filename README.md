@@ -50,7 +50,7 @@ To mitigate churn and improve user satisfaction, Waze should focus on **personal
 ___
 ## Additional Executive Summary:
 
-
+WAZE_ Executive summaries_.pdf
 
 
 ### 📂 **Repository Contents**
