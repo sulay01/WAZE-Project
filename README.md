@@ -91,7 +91,7 @@ ___
 **LinkedIn:** [linkedin.com/in/sulay-cay-0589513a](https://www.linkedin.com/in/sulay-cay-0589513a)  
 **GitHub:** [github.com/sulay01](https://github.com/sulay01)  
 
-Data is fictinional and only done as a demonstration for solely for this project for Google.
+Data is fictional and only done as a demonstration for solely for this project for Google.
 
 
 RESOURCES: GOOGLE DATA ADVANCED ANALYTICS 
